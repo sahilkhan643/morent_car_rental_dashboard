@@ -1,0 +1,153 @@
+.heading {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+#like {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#like:hover {
+    transform: scale(1.1);
+}
+
+.car {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+    min-height: 80px;
+}
+
+.car > img {
+    width: 160px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.footer img {
+    height: 18px;
+    width: auto;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    gap: 10px;
+}
+
+.info img {
+    height: 20px;
+    width: auto;
+}
+
+.ldiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 30px;
+    margin: 30px;
+}
+
+.bis {
+    color: rgba(112, 110, 107, 0.65);
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+#profile {
+    height: 28px;
+    width: 28px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#profile:hover {
+    transform: scale(1.1);
+}
+
+.style {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.tagimg {
+    padding: 10px 20px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #f5f6f7;
+    border-radius: 40px;
+    padding: 10px 15px;
+    width: 380px;
+    height: 40px;
+    gap: 10px;
+}
+
+.search-bar i {
+    color: #888;
+    font-size: 20px;
+}
+
+.search-bar i img {
+    width: 20px;
+    height: 20px;
+}
+
+.search-bar input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 14px;
+    color: #333;
+}
+
+.search-bar input::placeholder {
+    color: #999;
+}
+
+#morent {
+    color: #3563e9;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.jannat {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.snav {
+    flex-wrap: wrap;
+}
+
+
+.snav {
+    flex-wrap: wrap;
+}
+
+
+

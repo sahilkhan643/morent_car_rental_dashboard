@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # MORENT - Modern Car Rental Dashboard
 
-A high-fidelity, responsive Car Rental Dashboard built with HTML and Vanilla CSS. This project is a pixel-perfect implementation of a Figma design, focusing on a premium user experience and modern aesthetics.
+"A high-fidelity Car Rental Dashboard named MORENT, built with HTML and CSS from a Figma design. Features a modern, responsive UI for browsing cars, managing pickups/drop-offs, and viewing vehicle stats. Designed for a premium user experience in car booking and management."
 
 ![Project Preview](assets/command.png)
 
@@ -39,11 +38,6 @@ To run this project locally:
 ## 👤 Author
 
 - **Sahil Khan**
-- **Irfan**
 
 ---
 Built with ❤️ for a seamless car rental experience.
-=======
-# morent_car_rental_dashboard
-"A high-fidelity Car Rental Dashboard named MORENT, built with HTML and CSS from a Figma design. Features a modern, responsive UI for browsing cars, managing pickups/drop-offs, and viewing vehicle stats. Designed for a premium user experience in car booking and management."
->>>>>>> ae050c1622a12e9fa1a8a6ff1c368e15a8c4d952
